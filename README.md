@@ -1,23 +1,18 @@
 three.js
 ========
+# ThreeIPFS
+The ThreeIPFS project is the Three.js javascript code library integrated into IPFS. With Three.js, 3D objects can be published on the Web. Thanks to this integration, a 3D object can be hosted in IPFS. This module can be used in projects such as 3D NFT.
 
-[![NPM Package][npm]][npm-url]
-[![Build Size][build-size]][build-size-url]
-[![NPM Downloads][npm-downloads]][npmtrends-url]
-[![DeepScan][deepscan]][deepscan-url]
-[![Discord][discord]][discord-url]
+# Stages
 
-#### JavaScript 3D library ####
+✅ The Three.js JavaScript library has been forked. <br>
+⌛️Integration of Three.js to use external objects <br>
+⏳Adapting remote modeling to IPFS.<br>
+⏳Developing a module for use in open source content management systems.<br>
 
-The aim of the project is to create an easy to use, lightweight, cross-browser, general purpose 3D library. The current builds only include a WebGL renderer but WebGPU (experimental), SVG and CSS3D renderers are also available in the examples.
 
-[Examples](https://threejs.org/examples/) &mdash;
-[Documentation](https://threejs.org/docs/) &mdash;
-[Wiki](https://github.com/mrdoob/three.js/wiki) &mdash;
-[Migrating](https://github.com/mrdoob/three.js/wiki/Migration-Guide) &mdash;
-[Questions](https://stackoverflow.com/questions/tagged/three.js) &mdash;
-[Forum](https://discourse.threejs.org/) &mdash;
-[Slack](https://join.slack.com/t/threejs/shared_invite/zt-rnuegz5e-FQpc6YboDVW~5idlp7GfDw)
+Integrator Developer:
+Excelsior Hiekzen
 
 ### Usage ###
 
@@ -63,22 +58,10 @@ If everything went well, you should see [this](https://jsfiddle.net/7u84j6kp/).
 Cloning the repo with all its history results in a ~2 GB download. If you don't need the whole history you can use the `depth` parameter to significantly reduce download size.
 
 ```sh
-git clone --depth=1 https://github.com/mrdoob/three.js.git
+git clone --depth=1 https://github.com/hiekxel/three.js.git
 ```
 
 ### Change log ###
 
-[Releases](https://github.com/mrdoob/three.js/releases)
-
-
-[npm]: https://img.shields.io/npm/v/three
-[npm-url]: https://www.npmjs.com/package/three
-[build-size]: https://badgen.net/bundlephobia/minzip/three
-[build-size-url]: https://bundlephobia.com/result?p=three
-[npm-downloads]: https://img.shields.io/npm/dw/three
-[npmtrends-url]: https://www.npmtrends.com/three
-[deepscan]: https://deepscan.io/api/teams/16600/projects/19901/branches/525701/badge/grade.svg
-[deepscan-url]: https://deepscan.io/dashboard#view=project&tid=16600&pid=19901&bid=525701
-[discord]: https://img.shields.io/discord/685241246557667386
-[discord-url]: https://discord.gg/56GBJwAnUS
+[Releases](https://github.com/hiekxel/three.js/releases)
 

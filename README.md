@@ -1,5 +1,4 @@
-three.js
-========
+
 # ThreeIPFS
 The ThreeIPFS project is the Three.js javascript code library integrated into IPFS. With Three.js, 3D objects can be published on the Web. Thanks to this integration, a 3D object can be hosted in IPFS. This module can be used in projects such as 3D NFT.
 
